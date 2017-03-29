@@ -1,0 +1,154 @@
+body{
+    background-color: #EEECEC;
+}
+.container-fluid-top{
+    margin: auto;
+    padding-right: 0px;
+    padding-left: 0px;
+    width: 100%;
+}
+h4{
+    text-align: center;
+    background-color: #EbEcEd;
+    margin: 0px;
+    padding: 10px;
+    height: 40px;
+}
+#shopNow{
+    color: black;
+    margin-left: 50px;
+    text-decoration: none;
+}
+.container-fluidRed{
+    background-color: #c6161d;
+}
+.details{
+    color: white;
+    text-decoration: none;
+}
+.contact{
+    color: white;
+    margin: auto;
+}
+.chatNow{
+    height: 23px;
+    width:90px;
+    border-radius: 8px;
+}
+.form-control{
+    display: inline-block;
+    width: 400px;
+}
+#searchIcon{
+    margin: -30px;
+    height: 20px;
+    width: 20px;
+}
+#info{
+    padding: 12px;
+
+}
+.storeFinder:hover{
+    text-decoration: none;
+}
+.signIn{
+    display: inline-block;
+    margin-left: 35px;
+}
+.accnt{
+    color: white;
+}
+#cart{
+    display: inline-block;
+    margin-left: 15px;
+}
+#drop {
+    display: inline-block;
+}
+#sign{
+    text-align: center;
+}
+.container-fluidBlack{
+    background-color: #000;
+}
+.link{
+    font-weight: bold;
+    color: white;
+}
+.container-fluidtrans{
+    background-color: #EbEcEd;
+}
+.smallLink{
+    color: black;
+    font-weight: bold;
+}
+.deal{
+    font-weight: bold;
+    color: white;
+    border: 1px solid white;
+    background-color: #c6161d;
+    height: 38px;
+    width: 295px;
+    padding: 4px;
+    display: inline-block;
+}
+.smallDiv{
+    width: 860px;
+    background-color: #c6161d;
+    height: 2px;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-left: -6px;
+}
+h3{
+    text-align: center;
+    font-weight: bold;
+}
+#col1{
+    border: 1px solid white;
+    background-color: white;
+    height: 460px;
+    width: 288px;
+}
+#col2{
+    border: 1px solid white;
+    background-color: white;
+    height: 460px;
+    width: 288px;
+    margin-left: 2px;
+}
+#col3{
+    border: 1px solid white;
+    background-color: white;
+    height: 460px;
+    width: 288px;
+    margin-left: 2px;
+}
+#col4{
+    border: 1px solid white;
+    background-color: white;
+    height: 460px;
+    width: 288px;
+    margin-left: 2px;
+}
+.img{
+    margin-left: 30px;
+}
+.was{
+    font-weight: bold;
+}
+.price{
+    color: darkred;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 130px;
+}
+.shop{
+    background-color: #a81216;
+    height: 50px;
+    border-radius: 6px;
+    width: 255px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
